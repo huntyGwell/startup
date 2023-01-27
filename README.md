@@ -22,3 +22,4 @@ This app will aid in motivation as well as being an aid to tracking progress by:
 1. Allowing you to track your progress over time.
 2. Allowing you to get a social support system involved in your fitness joureny 
 3. Showing you how consistent you have been on your fitness journey. (nobody is perfect but this is a tool that can be helpful)
+![StartUP 260](https://user-images.githubusercontent.com/108026570/215034661-d4d4c940-9355-4360-b7a1-9ba0abfc839c.jpeg)
