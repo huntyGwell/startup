@@ -21,5 +21,4 @@ I dont think so. *Unless* you **work** to *make* it okay
 This app will aid in motivation as well as being an aid to tracking progress by:
 1. Allowing you to track your progress over time.
 2. Allowing you to get a social support system involved in your fitness joureny 
-3. Showing you how consistent you have been on your fitness journey. 
-  - (nobody is perfect but this is a tool that can be helpful)
+3. Showing you how consistent you have been on your fitness journey. (nobody is perfect but this is a tool that can be helpful)
