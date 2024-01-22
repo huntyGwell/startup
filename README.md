@@ -1,19 +1,3 @@
-# startup
-
-StartUp260 is a practical and engaging course where I get to create my own website
-
-## github assignment
- - I am excited to get started and make some mistakes!
-    - I pushed and pulled but there seems to be a lag for some reason.
-    - 'oh well'
-      - not just 'oh well' I fixed it.
-people sometimes say:
-
->it will all work out.
-
-I dont think so. *Unless* you **work** to *make* it okay
-
-
 ## Elavator Pitch
 >Have you ever struggled to stay consistant with a workout/ training regimen?
 >It is a constant struggle for me. When I finally do have the time to work out it can be difficult to tell if I am making any progress towards my goals.
