@@ -10,6 +10,19 @@ This app will aid in motivation as well as being an aid to tracking progress by:
 3. Showing you how consistent you have been on your fitness journey. (nobody is perfect but this is a tool that can be helpful)
 ![StartUP 260](https://user-images.githubusercontent.com/108026570/215034661-d4d4c940-9355-4360-b7a1-9ba0abfc839c.jpeg)
 
+## Technologies needed ##
++ HTML - give the base structure for the application. 1 login page and one for use case appliation 
++ CSS - giving flow and styling to the applicaiton
++ JS - login and interactions 
++ Service
+  - sending encouragment
+  - receiving encouragment
+  - showing status
++ DB/login - stores workout history and cant use unless uthenticated
++ WebSocket - allows all users to encourage eachother 
++ React - using react framework
+  
+
 
 ### 13.59.71.140 ###
 ### hunter-gruwell.link ###
