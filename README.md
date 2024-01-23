@@ -24,6 +24,6 @@ This app will aid in motivation as well as being an aid to tracking progress by:
   
 
 
-### 13.59.71.140 ###
+### http://54.227.183.246/ ###
 ### hunter-gruwell.link ###
 I used **caddy** to secure it all. aside from that I used **aws: EC2 and Route 53** to set up my server and and name it with my domain name
