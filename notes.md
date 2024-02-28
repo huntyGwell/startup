@@ -13,4 +13,9 @@ people sometimes say:
 
 >it will all work out.
 
-I dont think so. *Unless* you **work** to *make* it okay
+I dont think so. *Unless* you **work** to *make* it work out.
+
+
+## HTML 
+ - I am learning the basics of HTML and one fun thing I learned is how to include images.
+  - It is much easier to download the image.
