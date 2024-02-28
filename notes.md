@@ -20,4 +20,4 @@ I dont think so. *Unless* you **work** to *make* it work out.
  - I am learning the basics of HTML and one fun thing I learned is how to include images.
    - It is much easier to download the image.
 
-https://codepen.io/huntyGwell/pen/MWRWYgO?editors=1100#
+[my HTML codePen](https://codepen.io/huntyGwell/pen/MWRWYgO?editors=1100#)
