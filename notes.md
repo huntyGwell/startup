@@ -35,3 +35,7 @@ I dont think so. *Unless* you **work** to *make* it work out.
      - Here is my frist atempt at some basic CSS
  
 [CSS pratice](https://codepen.io/huntyGwell/pen/ExJxpjZ?editors=1100)
+
+-This is a first atempt to make a page flexible and reactive
+
+[CSS flex](https://codepen.io/huntyGwell/pen/zYXYLjd)
