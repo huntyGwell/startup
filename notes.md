@@ -28,4 +28,9 @@ I dont think so. *Unless* you **work** to *make* it work out.
 
 - I am learning about HTML and media
 
-  [My HTML media demo](https://codepen.io/huntyGwell/pen/jOROWVL?editors=1000#)
+[My HTML media demo](https://codepen.io/huntyGwell/pen/jOROWVL?editors=1000#)
+
+## CSS
+ - I have started to learn how to use CSS to stuyle my HTML
+     - Here is my frist atempt at some basic CSS
+[CSS pratice](https://codepen.io/huntyGwell/pen/ExJxpjZ?editors=1100)
