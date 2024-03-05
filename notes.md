@@ -39,3 +39,8 @@ I dont think so. *Unless* you **work** to *make* it work out.
 -This is a first atempt to make a page flexible and reactive
 
 [CSS flex](https://codepen.io/huntyGwell/pen/zYXYLjd)
+
+## JavaScript
+- working on javascript now
+
+  [JS function](https://codepen.io/huntyGwell/pen/MWRwvvm)
